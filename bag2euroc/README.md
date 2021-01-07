@@ -1,0 +1,1 @@
+extract ros bag image and imu topic to euroc format
